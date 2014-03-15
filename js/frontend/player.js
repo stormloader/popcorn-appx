@@ -91,6 +91,7 @@ window.SubtitleLanguages = {
   'spanish'   : 'Español',
   'english'   : 'English',
   'french'    : 'Français',
+  'hebrew'    : 'Hebrew',
   'turkish'   : 'Türkçe',
   'romanian'  : 'Română',
   'portuguese': 'Português',
